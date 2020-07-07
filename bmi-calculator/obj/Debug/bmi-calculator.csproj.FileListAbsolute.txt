@@ -1,0 +1,12 @@
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\bin\Debug\bmi-calculator.exe.config
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\bin\Debug\bmi-calculator.exe
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\bin\Debug\bmi-calculator.pdb
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\bin\Debug\MaterialSkin.dll
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.csprojAssemblyReference.cache
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi_calculator.Form1.resources
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi_calculator.Properties.Resources.resources
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.csproj.GenerateResource.cache
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.csproj.CopyComplete
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.exe
+C:\Users\Mazdakpak\source\repos\bmi-calculator\bmi-calculator\obj\Debug\bmi-calculator.pdb
